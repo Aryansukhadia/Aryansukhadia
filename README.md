@@ -7,14 +7,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 💻 Software Developer with a focus on web and mobile applications.
 - 🌱 Currently learning advanced JavaScript and exploring AI and machine learning.
 - 🚀 Always excited to work on innovative projects and learn new technologies.
-- 🎓 Graduate in Computer Science from Ahmedabad University.
+- 🎓 Graduating in Computer Science from Ahmedabad University.
 - 💬 Ask me about web development, JavaScript, Python, and more!
 
 ## My Skills
 
 - **Languages:** JavaScript, Python, Java, C++, C, r
 - **Web Development:** HTML, CSS, React, Node.js, Express, Django, Flask 
-- **Mobile Development:** React Native
 - **Databases:** MongoDB, MySQL
 - **Other Technologies:** Git, AWS
 
