@@ -45,14 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryansukhadia&show_icons=true&theme=react&hide_title=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansukhadia&layout=compact&theme=react" height="180px"/>
-</p>
-
----
 
 ### 📂 Projects
 
