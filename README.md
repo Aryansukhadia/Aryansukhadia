@@ -1,39 +1,76 @@
-# Hi there, I'm Aryan Sukhadia 👋
+<h1 align="center">Hello! 👋, I'm Aryan Sukhadia</h1>
+<h3 align="center">ML/DL Enthusiast | Django Developer | CSE'26 @ Ahmedabad University | Actively Seeking Summer Internship</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you'll find some of the projects I've been working on and contributions I've made to the open-source community.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryansukhadia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
-## About Me
+---
 
-- 💻 Software Developer with a focus on web and mobile applications.
-- 🌱 Currently learning advanced JavaScript and exploring AI and machine learning.
-- 🚀 Always excited to work on innovative projects and learn new technologies.
-- 🎓 Graduating in Computer Science from Ahmedabad University.
-- 💬 Ask me about web development, JavaScript, Python, and more!
+### 👨‍💻 About Me
 
-## My Skills
+- 🎓 Final year B.Tech CSE student at **Ahmedabad University**
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and building real-world AI applications
+- 🌐 Experienced in full-stack development with **Django** and integration of AI chatbots
+- 💡 Currently building: *GTAOracle* – An AI-powered chatbot based on GTA V characters using Gemini API
+- 🧠 Interested in **RAG pipelines**, **Computer Vision**, and **NLP**
+- 📈 Looking for a **Summer Internship** in the field of ML/DL/Web Development
+- ✨ Focused on projects that solve real-world problems and can scale into startups
 
-- **Languages:** JavaScript, Python, Java, C++, C, r
-- **Web Development:** HTML, CSS, React, Node.js, Express, Django, Flask 
-- **Databases:** MongoDB, MySQL
-- **Other Technologies:** Git, AWS
+---
 
-## Projects
+### 🔧 Tech Stack
 
-### [Stock Price Sentemental Analysis](https://github.com/Aryansukhadia/SMP)
-This project automates the process of monitoring financial news, summarizing key insights, and analyzing sentiment for specific assets. It is designed to help traders and investors make informed decisions by providing sentiment-based insights for stocks and cryptocurrencies like Bitcoin, Ethereum, Tesla, and Gamestop.
+#### 🧠 Machine Learning | Deep Learning | AI
+- Python, NumPy, Pandas, Scikit-Learn
+- TensorFlow, Keras
+- OpenCV, Gemini API
+- NLP, RAG Pipelines, Transformers
+- Data Preprocessing, Classification, Regression, Computer Vision
 
+#### 🌐 Frontend Development
+- HTML5, CSS3, JavaScript
+- Bootstrap, Tailwind CSS
 
-### [Los Santos Virtuoso (AI Chatbot)](https://github.com/rahil247/LosSantosVirtuoso)
-An interactive chatbot experience inspired by the vibrant and dynamic world of GTA 5. Step into the bustling streets of Los Santos and engage in lively conversations with three of the game's most iconic characters: Trevor Philips, Michael De Santa, and Franklin Clinton.
+#### 🔙 Backend Development
+- Django, Flask
+- REST APIs, JWT, Google OAuth
 
-## GitHub Stats
+#### 🛢️ Database & DevOps
+- MySQL, SQLite, Firebase
+- Git, GitHub, Heroku, Render
+- Postman, CI/CD (Basics)
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryansukhadia&show_icons=true&theme=radical)
+---
 
-## Connect with Me
+### 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/aryan-sukhadia-336870251/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryansukhadia&show_icons=true&theme=react&hide_title=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansukhadia&layout=compact&theme=react" height="180px"/>
+</p>
 
+---
 
+### 📂 Projects
 
-Thanks for stopping by! 😊
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **[GTAOracle](https://github.com/aryansukhadia/GTAOracle)** | AI chatbot with character switching (Michael, Trevor, Franklin) using Gemini API | Django, Gemini API, JS |
+| **Chat History System** | Persistent chat system with user-specific data | Django, MySQL |
+| **AI Mental Health Bot** | Emotional support chatbot using NLU and empathy | Gemini API, HTML, CSS |
+| **Flex Sensor Angle Meter** | Tinkercad simulation using piecewise calibration | Arduino IDE, Serial Monitor |
+| **Stock Prediction Research** | Comparative literature review on ML-based stock forecasting | Python, ML, Research |
+
+---
+
+### 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryansukhadia/)
+- 💬 Email: *aryansukhadia@gmail.com*
+
+---
+
+<p align="center">Thank you for visiting my profile! 🚀</p>
