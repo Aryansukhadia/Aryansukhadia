@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Aryan Sukhadia</h1>
-<h3 align="center">ML/DL Enthusiast | Django Developer | CSE'26 @ Ahmedabad University | Actively Seeking Summer Internship</h3>
+<h3 align="center">ML/DL Enthusiast | CSE'26 @ Ahmedabad University | Actively Seeking Summer Internship</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryansukhadia/" target="_blank">
