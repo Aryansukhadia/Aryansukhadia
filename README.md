@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Aryan Sukhadia</h1>
+<h1 align="center">Hello! , I'm Aryan Sukhadia</h1>
 <h3 align="center">ML/DL Enthusiast | CSE'26 @ Ahmedabad University</h3>
 
 <p align="center">
@@ -9,36 +9,36 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Final year B.Tech CSE student at **Ahmedabad University**
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and building real-world AI applications
-- 🌐 Experienced in full-stack development with **Django** and integration of AI chatbots
-- 💡 Currently building: *GTAOracle* – An AI-powered chatbot based on GTA V characters using Gemini API
-- 🧠 Interested in **RAG pipelines**, **Computer Vision**, and **NLP**
-- 📈 Looking for a **Summer Internship** in the field of ML/DL/Web Development
-- ✨ Focused on projects that solve real-world problems and can scale into startups
+-  Final year B.Tech CSE student at **Ahmedabad University**
+-  Passionate about **Machine Learning**, **Deep Learning**, and building real-world AI applications
+-  Experienced in full-stack development with **Django** and integration of AI chatbots
+-  Builded: *GTAOracle* – An AI-powered chatbot based on GTA V characters using Gemini API
+-  Interested in **RAG pipelines**, **Computer Vision**, and **NLP**
+-  Looking for a **Summer Internship** in the field of ML/DL/Web Development
+-  Focused on projects that solve real-world problems and can scale into startups
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
-#### 🧠 Machine Learning | Deep Learning | AI
+####  Machine Learning | Deep Learning | AI
 - Python, NumPy, Pandas, Scikit-Learn
 - TensorFlow, Keras
 - OpenCV, Gemini API
-- NLP, RAG Pipelines, Transformers
+- NLP, Transformers
 - Data Preprocessing, Classification, Regression, Computer Vision
 
-#### 🌐 Frontend Development
+#### Frontend Development
 - HTML5, CSS3, JavaScript
 - Bootstrap, Tailwind CSS
 
-#### 🔙 Backend Development
+#### Backend Development
 - Django, Flask
 - REST APIs, JWT, Google OAuth
 
-#### 🛢️ Database & DevOps
+#### Database & DevOps
 - MySQL, SQLite, Firebase
 - Git, GitHub, Heroku, Render
 - Postman, CI/CD (Basics)
@@ -46,7 +46,7 @@
 ---
 
 
-### 📂 Projects
+### Projects
 
 | Project | Description | Stack |
 |--------|-------------|--------|
@@ -58,11 +58,11 @@
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aryansukhadia/)
 - 💬 Email: *aryansukhadia@gmail.com*
 
 ---
 
-<p align="center">Thank you for visiting my profile! 🚀</p>
+<p align="center">Thank you for visiting my profile! </p>
