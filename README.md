@@ -19,7 +19,7 @@
 
 -  Final year **B.Tech CSE** student at **Ahmedabad University**
 -  Passionate about solving real-world problems
--  Skilled in **Python**, **Django**, **MySQL**, and various Machine Learning and Deep Learning Frameworks
+-  Skilled in **Python**, **Django**, **MySQL**, and various **Machine Learning** and **Deep Learning Frameworks**
 -  Led creative chatbot projects
 -  Actively involved in technical clubs, mentorship, and design leadership roles
 -  Open to **internships and full-time roles** in AI/ML roles
